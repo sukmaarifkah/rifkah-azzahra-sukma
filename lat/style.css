@@ -1,0 +1,32 @@
+.menu{
+	overflow: hidden;
+	background-color: #E9E9E9;
+}
+
+.profil .profilkiri{
+	width: 425px;
+	float: left;
+	position: relative;
+	padding: 15px 2px 15px 15px;
+	margin-left: 8px;
+}
+
+.profil .profilkiri .text1{
+	position: absolute;
+	width: 180px;
+}
+
+.profil .profilkanan{
+	width: 425px;
+	float: right;
+	position: relative;
+	padding: 15px 2px 15px 15px;
+	margin-left: 8px;
+}
+
+.profil .profilkiri .text2{
+	position: absolute;
+	width: 180px;
+	top: 60px;
+	right: 35px;
+}
